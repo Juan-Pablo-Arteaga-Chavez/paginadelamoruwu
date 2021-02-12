@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>Pagina del amor</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+    <style>
+      body{
+        font-family: georgia, sans-serif;
+        background-color: rgb(200,4,230);
+      }
+      p{
+        font-size: 12px; 
+      }
+      #poema{
+        background-color: rgb(4,180,230);
+      }
+      h1{
+        color: gray;
+        background-color: rgb(155,230,5);
+      }
+    </style  
+  </head>
+  <body>
+    <script src="script.js"></script>
+    <div align="center">
+    <h1 >Hola amor</h1>
+    </div>
+    <div id="poema" align="center"<p>Sabes que eres lo mas hermoso que existe<br>
+    y que te amo demasiado, es por eso que<br>
+    mande a hacer esta pagina especial para ti<br>
+    demostrando mi amor aqui<br>
+    plasmado entre lineas de codigo y lectores de texto<br>
+    siendo tan apuesto y honesto<br>
+    te dedico este texto compuesto<br>
+    y queda aqui plasmado que te amo uWu<br>
+    ademas de decirte que siempre...</p></div>
+
+    <div align="center"><img src="https://d36tnp772eyphs.cloudfront.net/blogs/2/2018/08/amor-budista-estoy-aqui-para-ti-shutterstock_1006035412.jpg" width="300"></div>
+
+  </body>
+</html>
